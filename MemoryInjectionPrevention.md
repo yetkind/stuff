@@ -1,5 +1,7 @@
 Although prompt injection attacks are common, memory injection attacks can pose significant risks and may create vulnerabilities in systems over time. To explore potential prevention methods, I'll conduct mini-research focused on an AI-based web application as a practical example. This approach may not provide a comprehensive solution but can serve as a starting point for protecting against memory injection attacks and spark further investigation into this critical topic.
+
 ** I will be update this in time 
+
 Here's a table comparing the technical example of model layering in an AI system with the OWASP Top 10 vulnerabilities:
 
 
